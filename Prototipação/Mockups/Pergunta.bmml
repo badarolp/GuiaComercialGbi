@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="595" measuredH="280" mockupW="202" mockupH="140">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="402" y="149" w="184" h="94" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>Para%20participar%20voc%EA%20precisa%20estar%20logado%20no%20aplicativo.%20Se%20ainda%20n%E3o%20possui%20cadastro%2C%20%E9%20facil%2C%20basta%20pressionar%20o%20bot%E3o%20abaixo.</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="393" y="140" w="202" h="140" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="498" y="243" w="-1" h="-1" measuredW="82" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Cadastro%26bm%3BCadastro.bmml%26bm%3BCadastro.bmml%26bm%3BCadastro.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22105%2C103%2C187%2C130%22%20href%3D%22Cadastro.bmml%22%20alt%3D%22Cadastro%22%20id%3D%222%22/%3E</map>
+        <text>Cadastrar</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="408" y="243" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Sorteios%26bm%3BSorteios.bmml%26bm%3BSorteios.bmml%26bm%3BSorteios.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C103%2C90%2C130%22%20href%3D%22Sorteios.bmml%22%20alt%3D%22Sorteios%22%20id%3D%223%22/%3E</map>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

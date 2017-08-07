@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="708" measuredH="554" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="426" y="44" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="452" y="168" w="224" h="303" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="452" y="144" w="224" h="24" measuredW="224" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="224" h="21" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>10470904</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="200" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>ContactIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="452" y="144" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Empresas%26bm%3BEmpresas.bmml%26bm%3BEmpresas.bmml%26bm%3BEmpresas.bmml</href>
+        <icon>JumpBackIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C100%2C50%2C124%22%20href%3D%22Empresas.bmml%22%20alt%3D%22Empresas%22%20id%3D%2218%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="535" y="146" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Categoria</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="467" y="309" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Maria</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="467" y="330" w="191" h="21" measuredW="108" measuredH="18" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Coment%E1rio%20de%20Maria</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Canvas" x="467" y="214" w="200" h="40" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="463" y="183" w="-1" h="-1" measuredW="86" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Coment%E1rios</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="549" y="257" w="59" h="20" measuredW="56" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Button" x="608" y="257" w="59" h="20" measuredW="59" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Comentar</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::HRule" x="467" y="288" w="200" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="517" y="313" w="73" h="17" measuredW="53" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>2%20dias%20atr%E1s</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="467" y="357" w="-1" h="-1" measuredW="37" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Jo%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="467" y="378" w="191" h="21" measuredW="105" measuredH="18" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Coment%E1rio%20de%20Jo%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="517" y="361" w="73" h="17" measuredW="53" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>2%20dias%20atr%E1s</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Icon" x="559" y="168" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Empresa01%26bm%3BEmpresa01.bmml%26bm%3BEmpresa01.bmml%26bm%3BEmpresa01.bmml</href>
+        <icon>UpFillTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22133%2C124%2C149%2C140%22%20href%3D%22Empresa01.bmml%22%20alt%3D%22Empresa01%22%20id%3D%2266%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
